@@ -1,27 +1,26 @@
 [![Discord](https://discordapp.com/api/guilds/649703068799336454/widget.png)](https://discordapp.com/invite/KKYw763)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Antares-Network/template-repo?style=social)
-![](https://img.shields.io/github/repo-size/Antares-Network/template-repo?color=Green&style=flat-square)
-![](https://img.shields.io/tokei/lines/github/Antares-Network/template-repo?style=flat-square)  
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Antares-Network/Ares?style=social)
+![](https://img.shields.io/github/repo-size/Antares-Network/Ares?color=Green&style=flat-square)
+![](https://img.shields.io/tokei/lines/github/Antares-Network/Ares?style=flat-square)  
 ![](https://cdn.discordapp.com/icons/649703068799336454/1a7ef8f706cd60d62547d2c7dc08d6f0.png) 
 
-# Template Repo 
-- Description: This is a template repository for all new repos for the Antares Network
+# Ares
+- Description: This is the future home for **Ares** which will be a Dashboard for [Antares Bot](https://github.com/Antares-Network/AntaresBot). It will include stats, graphs, lists of commands, help articles, and be the home for all future updates for [Antares Bot](https://github.com/Antares-Network/AntaresBot)
 
 ## Rough outline:
-- Outline here
+- Check back later! We haven't started yet!
 
 ## How to run yourself:
-- Explain that here
+- Check back later! We haven't started yet!
 
 
 ## End goal of the project:
-- Describe what the goal of the project is
+- Check back later! We haven't started yet!
 
 
 
 ## Credits:
-- Person A
-- Person B
+- [Nate Goldsborough](https://nathen418.com)
 
 ## Join our discord server:
 https://dsc.gg/antaresnetwork
