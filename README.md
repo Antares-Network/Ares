@@ -17,6 +17,9 @@
 ## End goal of the project:
 - Check back later! We haven't started yet!
 
+## How to access the dashboard:
+- Go to this URL: [ares.playantares.com](https://ares.playantares.com)
+
 
 
 ## Credits:
